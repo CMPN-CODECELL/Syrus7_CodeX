@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.db
+*.db-wal
+*.db-shm
+mock_exchange_state.json
+o21_order_map.json
+o21_instruments.csv
+.env
+node_modules/
+frontend/dist/
+.venv/
